@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://coderzh.github.io/</link>
+    <link>http://xiaobinf.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Sep 2022 13:09:54 +0800</lastBuildDate><atom:link href="http://coderzh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 13:09:54 +0800</lastBuildDate><atom:link href="http://xiaobinf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://coderzh.github.io/post/first/</link>
+      <link>http://xiaobinf.github.io/post/first/</link>
       <pubDate>Wed, 21 Sep 2022 13:09:54 +0800</pubDate>
       
-      <guid>http://coderzh.github.io/post/first/</guid>
+      <guid>http://xiaobinf.github.io/post/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://coderzh.github.io/about/</link>
+      <link>http://xiaobinf.github.io/about/</link>
       <pubDate>Wed, 21 Sep 2022 13:09:42 +0800</pubDate>
       
-      <guid>http://coderzh.github.io/about/</guid>
+      <guid>http://xiaobinf.github.io/about/</guid>
       <description></description>
     </item>
     
